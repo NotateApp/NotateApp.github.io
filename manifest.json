@@ -1,7 +1,6 @@
 {
   "short_name": "Notate",
   "name": "Notate",
-  "description": "Demo for progressive web app with push notifications, background sync etc.",
   "icons": [
     {
       "src": "favicon.ico",
